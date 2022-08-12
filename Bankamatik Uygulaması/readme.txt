@@ -1,0 +1,1 @@
+Ufak bir bankamatik çalışmasıdır yeni başlayanlar için giriş seviyesinde bir programdır
