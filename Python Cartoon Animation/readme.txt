@@ -1,0 +1,1 @@
+Python'da normal olan bir fotoğrafı çizgi film görseline çevirmek için yapılmıştır
