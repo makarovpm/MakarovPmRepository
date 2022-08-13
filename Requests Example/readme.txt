@@ -1,0 +1,1 @@
+Requests örneğidir Herhangi bir tuşa basarak günlük borsa verilerini çekebilirsiniz.
